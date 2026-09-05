@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+## Teaching
+
+**Teaching Assistant and Lab Instructor**\
+University of Pennsylvania
+
+## 2026 Fall: CRIM 5350: Quantitative Methods for Public Policy
+
+## 2025 Fall: CRIM 5350: Quantitative Methods for Public Policy
+
+I lead weekly lab sessions that help graduate students apply quantitative methods to substantive questions in criminology and public policy. The labs provide hands-on instruction in R, covering data management, visualization, statistical analysis, and the interpretation of empirical results.
+
+I also developed an introductory R primer and supplementary materials to support students with varying levels of prior programming experience. My teaching emphasizes active participation: I identify common difficulties, work through applications interactively, and encourage students to connect statistical concepts to real-world research and policy questions.

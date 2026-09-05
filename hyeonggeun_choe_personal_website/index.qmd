@@ -1,0 +1,16 @@
+---
+title: "Hyeonggeun Choe"
+image: profile/selfie_adjusted.png
+about:
+  template: jolla
+  image-width: 20em  
+  image-shape: rectangle 
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hgchoe@sas.upenn.edu
+---
+
+I am a Ph.D. candidate in Criminology at the University of Pennsylvania, where I am also pursuing a master's degree in Statistics and Data Science.
+
+My research examines how policing practices and criminal justice interventions shape police behavior and neighborhood violence, with particular emphasis on modern causal inference methods. My work examines a range of topics, including the adoption of body-worn cameras (BWCs), gang takedowns, recreational cannabis legalization, and the relationship between licensed firearm dealers and local gun violence.
