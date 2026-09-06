@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hyeonggeun Choe",
@@ -7,11 +14,32 @@
     "text": "I am a Ph.D. candidate in Criminology at the University of Pennsylvania, where I am also pursuing a master’s degree in Statistics and Data Science.\nMy research examines how policing practices and criminal justice interventions shape police behavior and neighborhood violence, with particular emphasis on modern causal inference methods. My work examines a range of topics, including the adoption of body-worn cameras (BWCs), gang takedowns, recreational cannabis legalization, and the relationship between licensed firearm dealers and local gun violence."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Download my CV"
+    "text": "Teaching Assistant and Lab Instructor\nUniversity of Pennsylvania"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant and Lab Instructor\nUniversity of Pennsylvania"
+  },
+  {
+    "objectID": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy",
+    "href": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy",
+    "title": "Teaching",
+    "section": "2026 Fall: CRIM 5350: Quantitative Methods for Public Policy",
+    "text": "2026 Fall: CRIM 5350: Quantitative Methods for Public Policy"
+  },
+  {
+    "objectID": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy-1",
+    "href": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy-1",
+    "title": "Teaching",
+    "section": "2025 Fall: CRIM 5350: Quantitative Methods for Public Policy",
+    "text": "2025 Fall: CRIM 5350: Quantitative Methods for Public Policy\nI lead weekly lab sessions that help graduate students apply quantitative methods to substantive questions in criminology and public policy. The labs provide hands-on instruction in R, covering data management, visualization, statistical analysis, and the interpretation of empirical results.\nI also developed an introductory R primer and supplementary materials to support students with varying levels of prior programming experience. My teaching emphasizes active participation: I identify common difficulties, work through applications interactively, and encourage students to connect statistical concepts to real-world research and policy questions."
   },
   {
     "objectID": "research.html",
@@ -54,34 +82,6 @@
     "title": "Research",
     "section": "Peer-Reviewed Publications",
     "text": "Peer-Reviewed Publications\n\nInsights from U.S. D.A.R.E. and Alternative Youth Drug Prevention Programs: Implications for Korea\nHyeonggeun Choe and J. Lee (2026)\nKorean Association of Addiction Crime Review, 16(2).\n\n\nA Study on the Factors Affecting Crime Increase Perception toward Foreigners\nHyeonggeun Choe, S. Lee, and H. Jang (2022)\nThe Korean Association for Terrorism Studies, 15(4).\n\n\nA Test of the Non-Linear Relationship between Collective Efficacy and Fear of Crime in the Context of South Korea\nS. Park, Hyeonggeun Choe, and E. Hwang (2022)\nJournal of Korean Criminological Association, 16(2).\n\n\nThe Difference of the Level and Factors of Fear of Crime between Single-Person and Multi-Person Households: Focusing on the Trend of Fear of Crime over Time\nHyeonggeun Choe, S. Park, J. Han, D. Min, N. Kim, and E. Hwang (2021)\nJournal of Korean Criminological Association, 15(3)."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching Assistant and Lab Instructor\nUniversity of Pennsylvania"
-  },
-  {
-    "objectID": "teaching.html#teaching",
-    "href": "teaching.html#teaching",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching Assistant and Lab Instructor\nUniversity of Pennsylvania"
-  },
-  {
-    "objectID": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy",
-    "href": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy",
-    "title": "Teaching",
-    "section": "2026 Fall: CRIM 5350: Quantitative Methods for Public Policy",
-    "text": "2026 Fall: CRIM 5350: Quantitative Methods for Public Policy"
-  },
-  {
-    "objectID": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy-1",
-    "href": "teaching.html#fall-crim-5350-quantitative-methods-for-public-policy-1",
-    "title": "Teaching",
-    "section": "2025 Fall: CRIM 5350: Quantitative Methods for Public Policy",
-    "text": "2025 Fall: CRIM 5350: Quantitative Methods for Public Policy\nI lead weekly lab sessions that help graduate students apply quantitative methods to substantive questions in criminology and public policy. The labs provide hands-on instruction in R, covering data management, visualization, statistical analysis, and the interpretation of empirical results.\nI also developed an introductory R primer and supplementary materials to support students with varying levels of prior programming experience. My teaching emphasizes active participation: I identify common difficulties, work through applications interactively, and encourage students to connect statistical concepts to real-world research and policy questions."
   },
   {
     "objectID": "about.html",

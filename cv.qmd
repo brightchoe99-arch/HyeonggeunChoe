@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-[Download my CV](CV_choe.pdf)
+[Download my CV](CV_Choe.pdf)
 
 <iframe src="CV_Choe.pdf" width="100%" height="900px">
 
