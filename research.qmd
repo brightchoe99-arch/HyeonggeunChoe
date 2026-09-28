@@ -11,7 +11,7 @@ Policing; Gun and Group Violence; Crime and Place; Causal Inference
 ### Gang Takedowns and Neighborhood Violence: Evidence from a Case Study in Philadelphia
 
 **Hyeonggeun Choe**, Alyssa Mendlein, and Aaron Chalfin\
-*Criminology & Public Policy*, (Accepted).
+*Criminology & Public Policy*, Accepted.
 
 [Paper](gang_takedown_choe_et_al.pdf)
 
@@ -20,7 +20,9 @@ Policing; Gun and Group Violence; Crime and Place; Causal Inference
 ### The Minimal Effects of Body-Worn Camera Adoption on Organizational Outcomes
 
 **Hyeonggeun Choe** and Charles Loeffler\
-Submitted. [Draft](bwc_organizational_outcomes_choe_et_al.pdf)
+Submitted.
+
+[Manuscript](bwc_organizational_outcomes_choe_et_al.pdf)
 
 ### Police Traffic Stops: Bias or Public Safety Tool? A Spatial Analysis of Philadelphia
 
@@ -47,7 +49,7 @@ Jordan Hyatt, Nathan Link, and **Hyeonggeun Choe**
 
 **Hyeonggeun Choe** and Sinui Park
 
-## Peer-Reviewed Publications
+## Peer-Reviewed Publications in Korean Journals
 
 ### Insights from U.S. D.A.R.E. and Alternative Youth Drug Prevention Programs: Implications for Korea
 
